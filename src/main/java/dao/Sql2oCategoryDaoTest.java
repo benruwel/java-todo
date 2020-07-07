@@ -1,4 +1,4 @@
 package dao;
 
-public class Sql2oCataegoryDaoTest {
+public class Sql2oCategoryDaoTest {
 }
